@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: NaiMMP1
+
+iris: src\main\resources\iris.csv
